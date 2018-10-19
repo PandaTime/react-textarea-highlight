@@ -4,6 +4,7 @@
   "description": "React Textarea Highlight",
   "version": "1.0.0",
   "scripts": {
+    "prepare": "npm run dist && npm run dist:min",
     "start": "webpack-dev-server",
     "test": "jest",
     "test:coverage": "jest --coverage",
