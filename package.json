@@ -101,6 +101,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "lodash.includes": "^4.3.0"
+    "lodash.includes": "^4.3.0",
+    "prop-types": "^15.6.2"
   }
 }

@@ -1,5 +1,6 @@
 /* eslint no-return-assign:0, react/no-danger:0 */
-import React, { PropTypes, Component } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import includes from 'lodash.includes';
 
 const pick = (object, keys) =>
